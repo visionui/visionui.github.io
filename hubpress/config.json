@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "visionui",
-    "repositoryName": "visionui.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"visionui","repositoryName":"visionui.github.io","branch":"master"},"site":{"title":"VisionUI App Posts","url":"https://visionui.github.io"},"socialnetwork":{"googleplus":"visionaui@googlemail.com"},"theme":{"name":"Casper","url":"//visionui.github.io/themes/Casper"}}
