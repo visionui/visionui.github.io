@@ -1,0 +1,21 @@
+= Liebes Tagebuch!
+
+Danke Heise c't 11/2015 befindest Du Dich jetzt auf GitHub.
+
+Zum Beginn etwas Ascii-Doc.
+
+* *fett* mit vorne und hinten '*'
+* _kursiv_ mit vorne und hinten '_'
+* link:http://www.heise.de/[Heise] _link:http ://www.heise.de/[Heise]
+* image::logo.jpg[alternativtext] 
+* == === ==== für immer mehr Überschriften
+* Aufzählungen mit Sternen
+* Nummerierte Listen
+
+ Beispielkästen mit einem Zeichen einrücken
+
+
+* :hp-tags: Intro, Blog
+
+:hp-tags: Intro, Blog, Allgemein
+
