@@ -1,8 +1,8 @@
 = Liebes Tagebuch!
 
-Danke Heise c't 11/2015 befindest Du Dich jetzt auf GitHub.
+Dank c't 11/2015 befindest Du Dich jetzt auf GitHub.
 
-Zum Beginn etwas Ascii-Doc.
+Zu Beginn etwas Ascii-Doc.
 
 * *fett* mit vorne und hinten '*'
 * _kursiv_ mit vorne und hinten '_'
