@@ -1,1 +1,19 @@
-= iOS-App Pic Scanner
+= App Pic Scanner (iOS)
+
+Mit der App habe ich versuchsweise eine Seite eines älteren Fotoalbums abfotografiert.
+Die 4 Abzüge aus dem Album hat die App selbständig erkannt und einzeln gespeichert.
+Die Qualität ist offenbar wegen der iPad Kamera limitiert.
+Zu Beginn etwas Ascii-Doc.
+
+Stärken
+* Einfache Bedienung mit Hinweisen zur horizontalen Ausrichtung
+
+Schwächen:
+* Qualität am iPad limitiert (Kamera)
+
+
+
+
+:hp-tags: App, Foto, Scannen, Archivierung
+
+
